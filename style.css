@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100vw /* vw - Viewport Width (Largura da janela de visão)*/;
+}
+img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 0% 45%;
+    
+}
